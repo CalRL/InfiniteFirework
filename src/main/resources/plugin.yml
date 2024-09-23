@@ -1,0 +1,5 @@
+name: InfiniteFirework
+version: '${version}'
+main: me.calrl.infinitefirework.InfiniteFirework
+api-version: '1.21'
+load: STARTUP
